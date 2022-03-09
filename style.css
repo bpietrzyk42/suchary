@@ -6,11 +6,11 @@ background-size: cover;
 background-attachment: fixed;
 font-family: Verdana;
 font-size: 30px;
-color:white;
+color:red;
 }
 input
 {
-    background-color: lightgray;
+    background-color: white;
     border-radius: 40px;
     font-size: 13px;
     font-family:verdana;
@@ -29,7 +29,7 @@ font-size: 30px;
 }
 h1
 {
-	color:white;
+	color:red;
 	letter-spacing: 5px;
 	font-family: sans-serif;
     
