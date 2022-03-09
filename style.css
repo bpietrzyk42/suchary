@@ -6,7 +6,7 @@ background-size: cover;
 background-attachment: fixed;
 font-family: Verdana;
 font-size: 30px;
-color:black;
+color:white;
 }
 input
 {
@@ -20,7 +20,7 @@ input
     position: relative;
     top: -100px;
     position: relative;
-	right: -800px;
+	right: -600px;
    
 }
 p
@@ -29,7 +29,7 @@ font-size: 30px;
 }
 h1
 {
-	color:black;
+	color:white;
 	letter-spacing: 5px;
 	font-family: sans-serif;
     
